@@ -1,0 +1,5 @@
+clangd
+-std=c++17
+-I/home/plunne/.arduino15/packages/arduino/hardware/avr/1.8.4/cores/arduino
+-I/home/plunne/.arduino15/packages/arduino/hardware/avr/1.8.4/libraries
+-I/home/plunne/Arduino/libraries/*
